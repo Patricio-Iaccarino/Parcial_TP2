@@ -1,0 +1,1 @@
+[{"id":1,"numero":"00010","tipo":"A","monto":1000,"estado":"Pagada"},{"id":2,"numero":"00011","tipo":"B","monto":2000,"estado":"Pendiente"},{"id":3,"numero":"00012","tipo":"C","monto":3000,"estado":"Anulada"},{"numero":"00010","tipo":"A","monto":1000,"estado":"Anulada","id":4},{"numero":"00020","tipo":"A","monto":1000,"estado":"Anulada","id":5}]
